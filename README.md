@@ -1,6 +1,7 @@
 # conference_management
-Requirements:
-Microsoft Visual Studio 2017 Community Edition
+Requirements: <br>
+Microsoft Visual Studio 2017 Community Edition <br>
+Google Test (https://github.com/google/googletest) <br>
 
 Steps to build <br>
 1 Clone this repository on your desktop <br>
